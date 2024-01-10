@@ -133,7 +133,7 @@ const request = {
   config: {
     encoding: encoding,
     sampleRateHertz: sampleRateHertz,
-    languageCode: "en-US",
+    languageCode: "cs-CZ",
     //alternativeLanguageCodes: alternativeLanguageCodes,
     enableWordTimeOffsets: true,
     enableAutomaticPunctuation: true,
